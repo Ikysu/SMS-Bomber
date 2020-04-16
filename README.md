@@ -8,9 +8,7 @@
 
 
 Для Termux:
-Если нет питона, то:
 — pkg install python
 — pip install requests
-  
 — git clone https://github.com/Ikysu/SMS-Bomber/bomber.py
 — python bomber.py
