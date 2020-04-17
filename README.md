@@ -10,5 +10,6 @@
 Для Termux:
 - pkg install python
 - pip install requests
-- git clone https://github.com/Ikysu/SMS-Bomber/bomber.py
+- pkg install git
+- git clone https://github.com/Ikysu/SMS-Bomber
 - python bomber.py
