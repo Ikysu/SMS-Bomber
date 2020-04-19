@@ -12,4 +12,4 @@
 - pip install requests
 - pkg install git
 - git clone https://github.com/Ikysu/SMS-Bomber
-- python bomber.py
+- python SMS-Bomber\bomber.py
